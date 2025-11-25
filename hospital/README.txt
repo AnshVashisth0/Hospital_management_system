@@ -1,0 +1,1 @@
+Hospital Management System setup instructions for VS Code
